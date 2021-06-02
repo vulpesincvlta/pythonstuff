@@ -1,2 +1,2 @@
 # pythonstuff
-Some exercises I made on hyperskills
+Some exercises I made on hyperskill
